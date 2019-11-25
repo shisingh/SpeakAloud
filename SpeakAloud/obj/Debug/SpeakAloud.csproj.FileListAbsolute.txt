@@ -1,0 +1,10 @@
+C:\Users\shivps\Desktop\tools\SpeakAloud\SpeakAloud\bin\Debug\SpeakAloud.exe.config
+C:\Users\shivps\Desktop\tools\SpeakAloud\SpeakAloud\bin\Debug\SpeakAloud.exe
+C:\Users\shivps\Desktop\tools\SpeakAloud\SpeakAloud\bin\Debug\SpeakAloud.pdb
+C:\Users\shivps\Desktop\tools\SpeakAloud\SpeakAloud\obj\Debug\SpeakAloud.csprojResolveAssemblyReference.cache
+C:\Users\shivps\Desktop\tools\SpeakAloud\SpeakAloud\obj\Debug\GetWindowsText_Winform.Form1.resources
+C:\Users\shivps\Desktop\tools\SpeakAloud\SpeakAloud\obj\Debug\SpeakAloud.Properties.Resources.resources
+C:\Users\shivps\Desktop\tools\SpeakAloud\SpeakAloud\obj\Debug\SpeakAloud.SpeakAloud.resources
+C:\Users\shivps\Desktop\tools\SpeakAloud\SpeakAloud\obj\Debug\SpeakAloud.csproj.GenerateResource.Cache
+C:\Users\shivps\Desktop\tools\SpeakAloud\SpeakAloud\obj\Debug\SpeakAloud.exe
+C:\Users\shivps\Desktop\tools\SpeakAloud\SpeakAloud\obj\Debug\SpeakAloud.pdb
